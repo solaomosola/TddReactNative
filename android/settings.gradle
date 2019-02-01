@@ -1,0 +1,3 @@
+rootProject.name = 'tddreactnative'
+
+include ':app'
